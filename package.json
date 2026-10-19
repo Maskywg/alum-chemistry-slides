@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npx hyperframes@0.8.173 present ./composition",
+    "check": "npx hyperframes@0.8.173 check ./composition",
+    "studio": "npx hyperframes@0.8.173 preview ./composition --background"
+  }
+}
